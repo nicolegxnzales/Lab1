@@ -21,6 +21,3 @@ This project is a Python program designed to help users calculate the amount and
   - **Total Amount**: The program sums the flooring cost and tax to determine the final amount due.
 - **Output**: The program displays the calculated square footage, the cost of the flooring, the tax amount, and the total amount due.
 
-## Example
-
-### Sample Input:
