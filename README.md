@@ -1,5 +1,5 @@
-# Lab1
-# pyton code 
+# Lab1-pyton
+
 # Flooring Cost Calculator
 
 ## Project Overview
